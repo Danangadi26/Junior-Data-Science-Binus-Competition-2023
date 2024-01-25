@@ -11,4 +11,5 @@ Link to Analytics Dashboard : https://shorturl.at/brwCU
 
 # Prototype Apps
 ![Login or register](https://github.com/Danangadi26/Turnamen-Data-Science-Nasional-2023/assets/86056910/1b6d481b-ce30-49d0-9e0d-3e4000d555f0)
+
 Link to Prototype Apps : https://shorturl.at/nzL56
